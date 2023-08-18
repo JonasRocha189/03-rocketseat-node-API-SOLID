@@ -1,0 +1,4 @@
+{
+  "extends": "@rocketset/eslint-config/node"
+  
+}
