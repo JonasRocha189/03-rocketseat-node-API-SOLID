@@ -1,4 +1,7 @@
 {
-  "extends": "@rocketset/eslint-config/node"
-  
+  "extends": ["@rocketset/eslint-config/node"],
+  "rules": {
+    "camelcase": "off",
+    "no-useless-constructor": "off"
+  }  
 }
